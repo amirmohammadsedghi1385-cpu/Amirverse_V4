@@ -1,0 +1,22 @@
+node_modules/
+.next/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+.DS_Store
+
+# Local databases
+data/*.db
+
+# Backups and old versions
+*.backup
+*.broken
+*.old
+*.after-core
+*.before-core-design
+*.before-design-fix
+*.2d.backup
+*.3d.backup
+*.3d.old
+*backup*

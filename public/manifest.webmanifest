@@ -1,0 +1,12 @@
+{
+  "name": "Amirverse",
+  "short_name": "Amirverse",
+  "description": "دنیای شخصی سه‌بعدی و هوشمند Amirverse",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020713",
+  "theme_color": "#020713",
+  "icons": []
+}
